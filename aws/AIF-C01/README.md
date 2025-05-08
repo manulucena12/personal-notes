@@ -2,7 +2,9 @@
 
 These are the AI Practitioner notes I compiled while preparing for the **AWS Certified AI Practitioner (AIF-C01)** exam. They include concise explanations, diagrams, and references that helped me better understand the exam topics.
 
-![AIF-C01 Exam](https://github.com/manulucena12/personal-notes/blob/main/aws/AIF-C01/public/First.jpg?raw=true)
+<p align="center">
+  <img src="https://github.com/manulucena12/personal-notes/blob/main/aws/AIF-C01/public/First.jpg?raw=true" alt="AIF-C01 Exam" />
+</p>
 
 These notes were a key part of my study process and helped me pass the exam with a score of **800/1000**.
 
